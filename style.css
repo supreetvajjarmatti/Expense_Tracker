@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+  }
+
+  .container {
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+
+  .form-group {
+    margin-bottom: 15px;
+  }
+
+  h1 {
+    text-align: center;
+  }
+
+  button.btn-primary {
+    width: 100%;
+  }
+
+  .list-group-item {
+    border: none;
+    background-color: #f8f9fa;
+    font-size: 18px;
+  }
+
+  .list-group-item:last-child {
+    border-bottom: 1px solid #dee2e6;
+  }
+
+  h4 {
+    margin-bottom: 20px;
+  }
